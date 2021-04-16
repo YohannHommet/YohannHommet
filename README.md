@@ -19,7 +19,4 @@
 [![Yohann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohannHommet&theme=cobalt&bg_color=202020&text_color=00E0E0&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YohannHommet&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YohannHommet&repo=github-readme-stats)](https://github.com/YohannHommet/github-readme-stats)
