@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Symfony and Angular !
   
   
-![Twitter Follow](https://img.shields.io/twitter/follow/YoH_BackDev?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=plastic)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yohann-hommet/) ![Twitter Follow](https://img.shields.io/twitter/follow/YoH_BackDev?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=plastic) 
 
 --------
 <p align="center">
@@ -12,11 +12,14 @@
 </p>
 
 --------
-
-## &#x1f4c8; My GitHub Stats
-
+<div align="center">  
+  
+ ## &#x1f4c8; My GitHub Stats
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohannHommet&hide=java,html&theme=cobalt&bg_color=202020&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Yohann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohannHommet&theme=cobalt&bg_color=202020&text_color=00E0E0&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 --------
