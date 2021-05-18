@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Symfony !
   
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yohann-hommet/) ![Twitter Follow](https://img.shields.io/twitter/follow/YoH_BackDev?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=plastic) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yohann-hommet/) ![Twitter Follow](https://img.shields.io/twitter/follow/YoH_DevBackv?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=plastic) 
 
 --------
 <p align="center">
