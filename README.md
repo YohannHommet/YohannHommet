@@ -6,8 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Yohann Hommet !
 
-- 👀 I’m interested in Backend Developement
-- 🌱 I’m currently learning Symfony !
+- ❤ I love working with Symfony
+- 💻 I’m currently learning Angular and Typescript 😱 !
 
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
