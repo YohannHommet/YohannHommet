@@ -1,13 +1,13 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yohann-hommet/) ![Twitter Follow](https://img.shields.io/twitter/follow/YoH_DevBack?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=for-the-badge)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yohann-hommet/) ![Twitter Follow](https://img.shields.io/twitter/follow/Yohann_Dev?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=for-the-badge)
  
 <p>&nbsp;</p>  
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Yohann Hommet !
 
 - ❤ I love working with Symfony
-- 💻 I’m currently learning Angular and Typescript 😱 !
+- 💻 I’m currently learning Angular and Typescript 😱 :boom: !
 
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
@@ -23,7 +23,7 @@
 
 <p>&nbsp;</p>  
   
-## <p align=center>&#x1f4c8; My GitHub Stats</p>
+## <p align=center>:fire: My GitHub Stats :fire:</p>
  
 <p>&nbsp;</p>  
  
