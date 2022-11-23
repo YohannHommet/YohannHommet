@@ -6,14 +6,16 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Yohann Hommet !
 
-- ❤ I love working with Symfony
-- 💻 I’m currently learning Angular and Typescript 😱 :boom: !
+- ❤ I love working at Ignimission :)
+- 💻 My current stack is Laravel and VueJs 😱 :boom: !
 
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
 
 --------
+
+## <p align=center>🛠️ Skills list 🛠️</p>
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="Wordpress Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="Npm Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" alt="PHPStorm Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50"/><imgsrc="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/><img
