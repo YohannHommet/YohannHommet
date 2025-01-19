@@ -1,36 +1,61 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
+<img align="right" alt="Coding" src="https://github.com/YohannHommet/YohannHommet/blob/main/code.gif?raw=true" width="400" height="280" />
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yohann-hommet/) ![Twitter Follow](https://img.shields.io/twitter/follow/Yohann_Dev?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=for-the-badge)
- 
-<p>&nbsp;</p>  
+### Hi there, I'm Yohann Hommet! 👋
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Yohann Hommet !
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yohann-hommet/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-informational?style=for-the-badge&logo=twitter)](https://twitter.com/Yohann_Dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YohannHommet)
 
-- ❤ I love working at Ignimission :)
-- 💻 My current stack is Laravel and VueJs 😱 :boom: !
+---
 
-<p>&nbsp;</p>  
-<p>&nbsp;</p>  
-<p>&nbsp;</p>  
+#### 💻 **About Me**
+- 🚀 Senior Software Developer at **Ignimission**.
+- ❤️ Passionate about building scalable and modern web applications.
+- 🌱 Currently working with **Laravel** and **Vue.js**.
+- 💡 Always learning and exploring new technologies.
+- 🛠️ Using **Cursor IDE** and leveraging **AI tools** to boost productivity.
 
-## <p align=center>🛠️ Skills list 🛠️</p>
+---
 
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" alt="PHPStorm Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50"/>
-</p>
+## 🛠️ **Tech Stack**
 
-<p>&nbsp;</p>  
-  
-## <p align=center>:fire: My GitHub Stats :fire:</p>
- 
-<p>&nbsp;</p>  
- 
+### **Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📊 **GitHub Stats**
+
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohannHommet&hide=java,html&theme=cobalt&bg_color=202020&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;  [![Yohann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohannHommet&theme=cobalt&bg_color=202020&text_color=00E0E0&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;</p>  
-
-![Metrics](https://github.com/YohannHommet/YohannHommet/blob/main/github-metrics.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohannHommet&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YohannHommet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YohannHommet&theme=radical)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🌟 **Let's Connect!**
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yohann-hommet/) | [Twitter](https://twitter.com/Yohann_Dev)
+- 💬 Ask me about **Laravel**, **Vue.js**, **Cursor IDE**, or **AI tools**!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YohannHommet&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
