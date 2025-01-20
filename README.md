@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" style="margin-bottom: 2rem;"/>
+<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" style="margin-bottom: 16px;"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yohann-hommet/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-informational?style=for-the-badge&logo=twitter)](https://twitter.com/Yohann_Dev)
