@@ -8,6 +8,10 @@
 
 ---
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Yohann+Hommet;Senior+Software+Developer;Laravel+%7C+Vue.js+%7C+AI+Enthusiast;Let's+build+something+awesome!" alt="Typing Animation" />
+</h3>
+
 #### 💻 **About Me**
 - 🚀 Fullstack Developer at **Ignimission**.
 - ❤️ Passionate about building scalable and modern web applications.
@@ -57,5 +61,6 @@
 ---
 
 <p align="center">
+  Made with ❤️ by Yohann Hommet | 🚀 Keep coding, keep shipping!
   <img src="https://komarev.com/ghpvc/?username=YohannHommet&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
