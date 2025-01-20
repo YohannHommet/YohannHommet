@@ -59,6 +59,6 @@
 ---
 
 <p align="center">
-  Made with ❤️ by Yohann Hommet | 🚀 Keep coding, keep shipping!
+  Made with ❤️ by Yohann Hommet | 🚀 Keep coding, keep shipping!  
   <img src="https://komarev.com/ghpvc/?username=YohannHommet&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
