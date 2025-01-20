@@ -38,6 +38,15 @@
 ![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 
+### 🛠️ **Tech Stack**
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" title="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" />
+  <img src="https://img.shields.io/badge/AI_Tools-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" title="AI Tools" />
+</div>
+
 ---
 
 ## 📊 **GitHub Stats**
