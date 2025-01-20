@@ -1,15 +1,13 @@
 <img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 
-### Hi there, I'm Yohann Hommet! 👋
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yohann-hommet/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-informational?style=for-the-badge&logo=twitter)](https://twitter.com/Yohann_Dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YohannHommet)
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Yohann+Hommet;Senior+Software+Developer;Laravel+%7C+Vue.js+%7C+AI+Enthusiast;Let's+build+something+awesome!" alt="Typing Animation" />
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Yohann+Hommet;Fullstack+Developer;Laravel+%7C+Vue.js+%7C+AI+Enthusiast;Let's+build+something+awesome!" alt="Typing Animation" />
 </h3>
 
 #### 💻 **About Me**
