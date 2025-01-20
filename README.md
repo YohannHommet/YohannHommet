@@ -9,7 +9,7 @@
 ---
 
 #### 💻 **About Me**
-- 🚀 Senior Software Developer at **Ignimission**.
+- 🚀 Fullstack Developer at **Ignimission**.
 - ❤️ Passionate about building scalable and modern web applications.
 - 🌱 Currently working with **Laravel** and **Vue.js**.
 - 💡 Always learning and exploring new technologies.
