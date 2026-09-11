@@ -1,196 +1,28 @@
-<div align="center">
+### Yohann Hommet
 
-# Yohann Hommet
-### **Software Engineer** · Systems, Network Protocols & Agentic Observability
+Software Engineer based in France. Working on backend systems, networking protocols, developer tooling, and web products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yohann-hommet.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-YohannHommet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YohannHommet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yohann_Hommet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohann-hommet/)
-[![X / Twitter](https://img.shields.io/badge/X-@Yohann__Dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Yohann_Dev)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohann.hommet@outlook.fr)
-
-<br />
-
-> *Designing zero-allocation data engines, secure peer-to-peer protocols, and developer-facing SaaS products under strict **Black-Box Architecture** principles.*
-
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-Zed_(Rust)-08090a?style=flat-square&logo=zed&logoColor=white" alt="Zed Editor" />
-  <img src="https://img.shields.io/badge/Harness-Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Agent-Antigravity_CLI-4F46E5?style=flat-square&logo=google&logoColor=white" alt="Antigravity CLI" />
-  <img src="https://img.shields.io/badge/Agent-Codex-10B981?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Architecture-Black--Box-181717?style=flat-square&logo=cube&logoColor=white" alt="Black-Box Architecture" />
-</p>
-
-</div>
+I design systems around **black-box architecture**: deep modules with small interfaces, explicit failure handling, and strict boundary isolation.
 
 ---
 
-### 🧠 About & Engineering Philosophy
+#### Featured Projects
 
-I am a **Software Engineer** focused on low-level systems reliability, cryptographic networking protocols, and developer infrastructure for autonomous AI agents. I build software designed around deep modules, narrow interfaces, and zero implementation leaks.
-
-- ⚙️ **Systems & Data Engines**: Author of [`walspool`](https://github.com/YohannHommet/walspool), an in-process, zero-allocation Write-Ahead Log (WAL) spooler designed as a high-throughput shock absorber for telemetry and event streaming.
-- 🔒 **Encrypted Network Protocols**: Creator of [`wisp`](https://github.com/YohannHommet/wisp), a high-performance P2P transfer protocol written in Rust featuring QUIC transport, SPAKE2 mutual password-authenticated key exchange (RFC 9382), and streaming BLAKE3 hashing.
-- 🤖 **Agentic AI Infrastructure**: Building [`argus`](https://github.com/YohannHommet/argus), an OTLP-native observability engine tracking subagent execution trees, inference token economics, and runtime decision graphs for autonomous coding tools.
-- 🧱 **Black-Box Architecture Doctrine**: Strong advocate for deep modules with narrow public surfaces, explicit failure contracts, zero abstraction leaks, and clear seam isolation across distributed systems.
-- 🛠️ **Developer Tools & Micro-SaaS**: Creator of [**Unfurl**](https://unfurlit.vercel.app/) (an SSRF-safe Link Preview & Metadata API with Stripe billing) and [**LinkBounty**](https://github.com/YohannHommet/linkbounty) (a high-concurrency website link crawler in pure Go).
-- 🔌 **AI Tooling & MCP**: Author of [`pg-lens-mcp`](https://github.com/YohannHommet/pg-lens-mcp), a lightweight Model Context Protocol (MCP) server for PostgreSQL schema introspection and safe agent interaction.
+* **[walspool](https://github.com/YohannHommet/walspool)** — In-process Write-Ahead Log (WAL) and OpenTelemetry ingestion hub in pure Go. Buffers high-throughput telemetry to disk with zero heap allocations in the hot path. ([docs](https://yohannhommet.github.io/walspool/))
+* **[wisp](https://github.com/YohannHommet/wisp)** — P2P encrypted file transfer protocol and CLI in Rust. Runs direct transfers over QUIC and ephemeral TLS 1.3, authenticated via SPAKE2 (RFC 9382) with BLAKE3 streaming verification and a stateless rendezvous relay.
+* **[argus](https://github.com/YohannHommet/argus)** — Observability backend and UI for Claude Code telemetry. Ingests OTLP spans, tracks session costs, and renders subagent execution trees. *(Go, Vue 3, PostgreSQL)*
+* **[Unfurl](https://unfurlit.vercel.app/)** — SSRF-safe link preview and metadata extraction API. Validates redirects per hop to block internal network access, caches in Redis, and meters usage via Stripe.
+* **[LinkBounty](https://github.com/YohannHommet/linkbounty)** — High-concurrency website broken link checker in pure Go. Worker pool concurrency, SSRF protection against DNS rebinding, pure-Go SQLite storage, and HTMX.
+* **[pg-lens-mcp](https://github.com/YohannHommet/pg-lens-mcp)** — Lightweight Model Context Protocol (MCP) server for PostgreSQL schema inspection and queries.
 
 ---
 
-### 🚀 Core Systems & Networking
+#### Tech & Environment
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/YohannHommet/walspool">walspool</a></h3>
-      <p><em>The Zero-Allocation WAL Shock Absorber for Observability & Event Streaming</em></p>
-      <p>High-throughput dual-engine Write-Ahead Log (WAL) spooler & OpenTelemetry ingestion hub built in pure Go. Buffers telemetry spikes to disk with microsecond latency to prevent OOM panics during upstream outages.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go_1.22+-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OTel" />
-        <img src="https://img.shields.io/badge/Zero--Alloc-CCFF00?style=flat-square&logoColor=black&labelColor=16171C" alt="Zero-Alloc" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-      <ul>
-        <li>Dual memory ring-buffer & disk segment engine</li>
-        <li>Crash-resilient sub-millisecond recovery replay</li>
-        <li><a href="https://yohannhommet.github.io/walspool/">Live Documentation & Benchmarks</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/YohannHommet/wisp">wisp</a></h3>
-      <p><em>Zero-Cloud, High-Speed Encrypted P2P File Transfer Protocol</em></p>
-      <p>Direct peer-to-peer file transfer engine in Rust utilizing QUIC and modern cryptography. Zero persistent state, zero third-party data access, and instant discovery.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
-        <img src="https://img.shields.io/badge/QUIC-TLS_1.3-00599C?style=flat-square" alt="QUIC" />
-        <img src="https://img.shields.io/badge/SPAKE2-RFC_9382-success?style=flat-square" alt="SPAKE2" />
-        <img src="https://img.shields.io/badge/BLAKE3-Verified-blue?style=flat-square" alt="BLAKE3" />
-      </p>
-      <ul>
-        <li>Direct 1-RTT encrypted QUIC + ephemeral TLS handshake</li>
-        <li>SPAKE2 password-authenticated key exchange</li>
-        <li>Blind stateless rendezvous relay built on Axum</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* **Languages & Core**: Go, Rust, TypeScript, PHP, SQL, Shell
+* **Protocols & Data**: QUIC / TLS 1.3, SPAKE2, BLAKE3, OTLP, PostgreSQL, SQLite, Redis
+* **Daily Setup**: Linux, Zed, Claude Code, Antigravity CLI, Codex
 
 ---
 
-### 👁️ Agentic AI & Observability
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/YohannHommet/argus">argus</a></h3>
-      <p><em>OTLP-Native Coding Agent Observability Platform</em></p>
-      <p>Dedicated telemetry backend & interactive dashboard designed for Claude Code and autonomous agent workflows. Ingests OTLP spans, tracks token burn rates, and visualizes subagent hierarchy trees.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-      </p>
-      <ul>
-        <li>Real-time subagent call-graph & decision tracing</li>
-        <li>Cost-per-task economics & latency breakdown</li>
-        <li>PostgreSQL-backed time-series telemetry store</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 <a href="https://github.com/YohannHommet/pg-lens-mcp">pg-lens-mcp</a></h3>
-      <p><em>Lightweight PostgreSQL Model Context Protocol (MCP) Server</em></p>
-      <p>Dedicated Model Context Protocol server bridging autonomous AI coding agents with PostgreSQL databases. Exposes safe schema introspection, table structures, and isolated query execution.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Protocol-MCP-8A2BE2?style=flat-square" alt="MCP" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-      </p>
-      <ul>
-        <li>Minimal attack surface & safe query boundary</li>
-        <li>Fast schema catalog and relationship inspection</li>
-        <li>First-class compatibility with modern agentic harnesses</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📦 Developer Tools & SaaS Products
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 <a href="https://unfurlit.vercel.app/">Unfurl</a></h3>
-      <p><em>Fast, SSRF-Safe Link Preview & Metadata Extraction API</em></p>
-      <p>Developer-first micro-SaaS turning any URL into clean metadata JSON (title, description, social cards, icons). Built for production safety with manual redirect validation protecting internal subnets and cloud metadata endpoints.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Live_Product-unfurlit.vercel.app-0ea5e9?style=flat-square" alt="Unfurl" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Stripe-Billing-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-        <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      </p>
-      <ul>
-        <li><strong>SSRF-safe on every hop</strong>: Prevents DNS rebinding and loopback probing</li>
-        <li><strong>Multi-tier monetization</strong>: Free IP rate-limit & Stripe metered Pro API keys</li>
-        <li><strong>High hit-rate caching</strong>: 24h Redis cache layer with <code>X-Cache</code> telemetry</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/YohannHommet/linkbounty">LinkBounty</a></h3>
-      <p><em>High-Concurrency Broken-Link Crawler & Diagnostic Engine</em></p>
-      <p>Zero-friction link-checking engine written in pure Go. Crawls websites, verifies internal & outbound link health with pooled goroutines, and generates shareable diagnostic audits.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go_1.25+-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/SQLite-WAL_Mode-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/HTMX-SSR-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="HTMX" />
-        <img src="https://img.shields.io/badge/Zero_CGO-Compliant-success?style=flat-square" alt="Zero CGO" />
-      </p>
-      <ul>
-        <li>Concurrent crawler with goroutine worker pool & anti-bot fallbacks</li>
-        <li>SSRF-protected submission gate defeating DNS rebinding</li>
-        <li>Single deployable binary with pure-Go SQLite persistence</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Technical Stack & Architecture Competencies
-
-<div align="center">
-
-| Domain | Technologies & Standards |
-| :--- | :--- |
-| **Engineering Doctrine** | `Black-Box Architecture`, `Deep Modules`, `Narrow Interfaces`, `Failure Isolation` |
-| **Development Harness & Tools** | `Zed (Rust-native Editor)`, `Claude Code`, `Antigravity CLI`, `Codex` |
-| **Systems & Core Languages** | `Go`, `Rust`, `TypeScript`, `PHP`, `SQL`, `Bash` |
-| **Networking & Cryptography** | `QUIC / TLS 1.3`, `SPAKE2 (RFC 9382)`, `BLAKE3`, `mDNS`, `Axum` |
-| **Observability & Protocols** | `OpenTelemetry (OTLP)`, `Model Context Protocol (MCP)`, `Write-Ahead Logging (WAL)` |
-| **Databases & Caching** | `PostgreSQL`, `SQLite (Pure-Go WAL)`, `Redis` |
-| **Cloud, DevOps & Tooling** | `Docker`, `Linux`, `Git`, `GitHub Actions`, `Make`, `Stripe API` |
-| **Application & Interface** | `Vue.js 3`, `HTMX`, `Tailwind CSS`, `Svelte`, `Laravel`, `Vite` |
-
-</div>
-
----
-
-### 📈 Activity & Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YohannHommet&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-
-<sub>Crafting robust software from low-level byte buffers to distributed agent architectures.</sub>
-
-</div>
+[Portfolio](https://yohann-hommet.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/yohann-hommet/) · [Twitter / X](https://twitter.com/Yohann_Dev) · [yohann.hommet@outlook.fr](mailto:yohann.hommet@outlook.fr)
