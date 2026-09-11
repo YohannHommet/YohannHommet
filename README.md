@@ -11,27 +11,36 @@
 
 <br />
 
-> *Designing zero-allocation data engines, secure peer-to-peer protocols, and developer-facing SaaS products for the autonomous agent era.*
+> *Designing zero-allocation data engines, secure peer-to-peer protocols, and developer-facing SaaS products under strict **Black-Box Architecture** principles.*
 
 <br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-Zed_(Rust)-08090a?style=flat-square&logo=zed&logoColor=white" alt="Zed Editor" />
+  <img src="https://img.shields.io/badge/Harness-Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Agent-Antigravity_CLI-4F46E5?style=flat-square&logo=google&logoColor=white" alt="Antigravity CLI" />
+  <img src="https://img.shields.io/badge/Agent-Codex-10B981?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Architecture-Black--Box-181717?style=flat-square&logo=cube&logoColor=white" alt="Black-Box Architecture" />
+</p>
 
 </div>
 
 ---
 
-### 🧠 About & Focus
+### 🧠 About & Engineering Philosophy
 
-I am a **Software Engineer** focused on low-level systems reliability, cryptographic networking protocols, and developer infrastructure for autonomous AI agents. I also build and operate developer-centric SaaS products.
+I am a **Software Engineer** focused on low-level systems reliability, cryptographic networking protocols, and developer infrastructure for autonomous AI agents. I build software designed around deep modules, narrow interfaces, and zero implementation leaks.
 
 - ⚙️ **Systems & Data Engines**: Author of [`walspool`](https://github.com/YohannHommet/walspool), an in-process, zero-allocation Write-Ahead Log (WAL) spooler designed as a high-throughput shock absorber for telemetry and event streaming.
 - 🔒 **Encrypted Network Protocols**: Creator of [`wisp`](https://github.com/YohannHommet/wisp), a high-performance P2P transfer protocol written in Rust featuring QUIC transport, SPAKE2 mutual password-authenticated key exchange (RFC 9382), and streaming BLAKE3 hashing.
 - 🤖 **Agentic AI Infrastructure**: Building [`argus`](https://github.com/YohannHommet/argus), an OTLP-native observability engine tracking subagent execution trees, inference token economics, and runtime decision graphs for autonomous coding tools.
+- 🧱 **Black-Box Architecture Doctrine**: Strong advocate for deep modules with narrow public surfaces, explicit failure contracts, zero abstraction leaks, and clear seam isolation across distributed systems.
 - 🛠️ **Developer Tools & Micro-SaaS**: Creator of [**Unfurl**](https://unfurlit.vercel.app/) (an SSRF-safe Link Preview & Metadata API with Stripe billing) and [**LinkBounty**](https://github.com/YohannHommet/linkbounty) (a high-concurrency website link crawler in pure Go).
-- 🔌 **Model Context Protocol (MCP)**: Author of production MCP servers ([`pg-lens-mcp`](https://github.com/YohannHommet/pg-lens-mcp), [`repo-lens-mcp`](https://github.com/YohannHommet/repo-lens-mcp)) and AI companion runtimes ([`buddy-patcher`](https://github.com/YohannHommet/buddy-patcher)).
+- 🔌 **AI Tooling & MCP**: Author of [`pg-lens-mcp`](https://github.com/YohannHommet/pg-lens-mcp), a lightweight Model Context Protocol (MCP) server for PostgreSQL schema introspection and safe agent interaction.
 
 ---
 
-### 🚀 Core Systems & AI Infrastructure
+### 🚀 Core Systems & Networking
 
 <table>
   <tr>
@@ -68,9 +77,16 @@ I am a **Software Engineer** focused on low-level systems reliability, cryptogra
       </ul>
     </td>
   </tr>
+</table>
+
+---
+
+### 👁️ Agentic AI & Observability
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/YohannHommet/argus">argus</a></h3>
+      <h3>🔍 <a href="https://github.com/YohannHommet/argus">argus</a></h3>
       <p><em>OTLP-Native Coding Agent Observability Platform</em></p>
       <p>Dedicated telemetry backend & interactive dashboard designed for Claude Code and autonomous agent workflows. Ingests OTLP spans, tracks token burn rates, and visualizes subagent hierarchy trees.</p>
       <p>
@@ -86,18 +102,18 @@ I am a **Software Engineer** focused on low-level systems reliability, cryptogra
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔌 <a href="https://github.com/YohannHommet">Model Context Protocol & Dev Tooling</a></h3>
-      <p><em>Autonomous Agent Ecosystem Tools</em></p>
-      <p>Production MCP servers bridging AI coding agents with local infrastructure and data layers.</p>
+      <h3>🔌 <a href="https://github.com/YohannHommet/pg-lens-mcp">pg-lens-mcp</a></h3>
+      <p><em>Lightweight PostgreSQL Model Context Protocol (MCP) Server</em></p>
+      <p>Dedicated Model Context Protocol server bridging autonomous AI coding agents with PostgreSQL databases. Exposes safe schema introspection, table structures, and isolated query execution.</p>
       <p>
-        <img src="https://img.shields.io/badge/MCP-Protocol-8A2BE2?style=flat-square" alt="MCP" />
+        <img src="https://img.shields.io/badge/Protocol-MCP-8A2BE2?style=flat-square" alt="MCP" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Claude_Code-E06535?style=flat-square" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
       </p>
       <ul>
-        <li><strong><a href="https://github.com/YohannHommet/pg-lens-mcp">pg-lens-mcp</a></strong>: PostgreSQL schema introspection & secure query execution for AI agents</li>
-        <li><strong><a href="https://github.com/YohannHommet/repo-lens-mcp">repo-lens-mcp</a></strong>: Structural codebase indexing & fast context retrieval</li>
-        <li><strong><a href="https://github.com/YohannHommet/buddy-patcher">buddy-patcher</a></strong>: Custom companion runtime for developer AI CLIs</li>
+        <li>Minimal attack surface & safe query boundary</li>
+        <li>Fast schema catalog and relationship inspection</li>
+        <li>First-class compatibility with modern agentic harnesses</li>
       </ul>
     </td>
   </tr>
@@ -152,6 +168,8 @@ I am a **Software Engineer** focused on low-level systems reliability, cryptogra
 
 | Domain | Technologies & Standards |
 | :--- | :--- |
+| **Engineering Doctrine** | `Black-Box Architecture`, `Deep Modules`, `Narrow Interfaces`, `Failure Isolation` |
+| **Development Harness & Tools** | `Zed (Rust-native Editor)`, `Claude Code`, `Antigravity CLI`, `Codex` |
 | **Systems & Core Languages** | `Go`, `Rust`, `TypeScript`, `PHP`, `SQL`, `Bash` |
 | **Networking & Cryptography** | `QUIC / TLS 1.3`, `SPAKE2 (RFC 9382)`, `BLAKE3`, `mDNS`, `Axum` |
 | **Observability & Protocols** | `OpenTelemetry (OTLP)`, `Model Context Protocol (MCP)`, `Write-Ahead Logging (WAL)` |
