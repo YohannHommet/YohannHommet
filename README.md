@@ -15,7 +15,7 @@
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Zed_(Rust)-08090a?style=flat-square&logo=zed&logoColor=white" alt="Zed Editor" />
+  <img src="https://img.shields.io/badge/Editor-Zed-08090a?style=flat-square&logo=zed&logoColor=white" alt="Zed Editor" />
   <img src="https://img.shields.io/badge/Harness-Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Agent-Antigravity_CLI-4F46E5?style=flat-square&logo=google&logoColor=white" alt="Antigravity CLI" />
   <img src="https://img.shields.io/badge/Agent-Codex-10B981?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
@@ -168,7 +168,7 @@ Software Engineer based in France. I build backend services, network protocols, 
 | **Databases & Caching** | `PostgreSQL`, `SQLite (Pure-Go WAL)`, `Redis` |
 | **Cloud & DevOps** | `Docker`, `Linux`, `Git`, `GitHub Actions`, `Make`, `Stripe API` |
 | **Frontend & UI** | `Vue.js 3`, `HTMX`, `Tailwind CSS`, `Svelte`, `Laravel`, `Vite` |
-| **Daily Setup** | `Linux`, `Zed (Rust)`, `Claude Code`, `Antigravity CLI`, `Codex` |
+| **Daily Setup** | `Linux`, `Zed`, `Claude Code`, `Antigravity CLI`, `Codex` |
 
 </div>
 
