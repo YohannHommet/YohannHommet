@@ -6,12 +6,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yohann-hommet.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-YohannHommet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YohannHommet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yohann_Hommet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohann-hommet/)
-[![X / Twitter](https://img.shields.io/badge/X-@Yohann__Dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Yohann_Dev)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohann.hommet@outlook.fr)
 
 <br />
 
-> *Software engineer building backend systems, network protocols, and developer tools. Focused on deep modules, narrow interfaces, and crash-resilient storage.*
+> *Designing zero-allocation data engines, secure peer-to-peer protocols, and developer-facing SaaS products under strict **Black-Box Architecture** principles.*
 
 <br />
 
@@ -185,6 +184,6 @@ Software Engineer based in France. I build backend services, network protocols, 
 
 <div align="center">
 
-[Portfolio](https://yohann-hommet.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/yohann-hommet/) · [Twitter / X](https://twitter.com/Yohann_Dev) · [yohann.hommet@outlook.fr](mailto:yohann.hommet@outlook.fr)
+[Portfolio](https://yohann-hommet.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/yohann-hommet/) · [yohann.hommet@outlook.fr](mailto:yohann.hommet@outlook.fr)
 
 </div>
