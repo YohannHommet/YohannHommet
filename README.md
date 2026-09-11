@@ -62,8 +62,8 @@ Software Engineer based in France. I build backend services, network protocols, 
       <p>
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
         <img src="https://img.shields.io/badge/QUIC-TLS_1.3-00599C?style=flat-square" alt="QUIC" />
-        <img src="https://img.shields.io/badge/SPAKE2-RFC_9382-success?style=flat-square" alt="SPAKE2" />
-        <img src="https://img.shields.io/badge/BLAKE3-Verified-blue?style=flat-square" alt="BLAKE3" />
+        <img src="https://img.shields.io/badge/SPAKE2-RFC_9382-10B981?style=flat-square" alt="SPAKE2" />
+        <img src="https://img.shields.io/badge/BLAKE3-Verified-2563EB?style=flat-square" alt="BLAKE3" />
       </p>
       <ul>
         <li>Direct 1-RTT encrypted QUIC transport</li>
@@ -144,7 +144,7 @@ Software Engineer based in France. I build backend services, network protocols, 
         <img src="https://img.shields.io/badge/Go_1.25+-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
         <img src="https://img.shields.io/badge/SQLite-WAL_Mode-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
         <img src="https://img.shields.io/badge/HTMX-SSR-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="HTMX" />
-        <img src="https://img.shields.io/badge/Zero_CGO-Compliant-success?style=flat-square" alt="Zero CGO" />
+        <img src="https://img.shields.io/badge/Zero--CGO-Pure--Go-10B981?style=flat-square" alt="Zero CGO" />
       </p>
       <ul>
         <li>Pooled workers with automated anti-bot HTTP fallbacks</li>
@@ -157,7 +157,7 @@ Software Engineer based in France. I build backend services, network protocols, 
 
 ---
 
-### Tech Stack & Environment
+### Tech Stack
 
 <div align="center">
 
@@ -168,16 +168,7 @@ Software Engineer based in France. I build backend services, network protocols, 
 | **Databases & Caching** | `PostgreSQL`, `SQLite (Pure-Go WAL)`, `Redis` |
 | **Cloud & DevOps** | `Docker`, `Linux`, `Git`, `GitHub Actions`, `Make`, `Stripe API` |
 | **Frontend & UI** | `Vue.js 3`, `HTMX`, `Tailwind CSS`, `Svelte`, `Laravel`, `Vite` |
-| **Daily Setup** | `Linux`, `Zed`, `Claude Code`, `Antigravity CLI`, `Codex` |
 
-</div>
-
----
-
-### Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YohannHommet&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
